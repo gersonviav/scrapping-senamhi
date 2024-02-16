@@ -10,10 +10,10 @@ Este proyecto utiliza las bibliotecas BeautifulSoup y Pandas para extraer inform
 
    ```bash
    git clone https://github.com/tu_usuario/tu_proyecto.git
-   Navega al directorio del proyecto:
 
 2.Navega al directorio del proyecto:
-cd tu_proyecto
+  ```bash
+   cd tu_proyecto
 
 3.Crea y activa un entorno virtual (opcional pero recomendado):
 python -m venv venv
